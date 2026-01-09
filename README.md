@@ -24,12 +24,6 @@ I am actively learning, building projects, and preparing for **internship opport
 
 ---
 
-### 📊 GitHub Stats
-![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmanJubayeed&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanJubayeed&layout=compact&theme=github_dark)
-
----
-
 ### 🏷️ Tech Stack Badges
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
